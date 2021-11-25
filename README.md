@@ -1,1 +1,1 @@
-# JS_22
+# lesson-22js

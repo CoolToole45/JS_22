@@ -1,0 +1,36 @@
+
+@-webkit-keyframes animateTop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 20px;
+        opacity: 1
+    }
+}
+
+@keyframes animateTop {
+    from {
+        top: -300px;
+        opacity: 0
+    }
+    to {
+        top: 20px;
+        opacity: 1
+    }
+}
+
+.d-flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#canvas {
+    border: 1px solid #e3e3e3;
+}
